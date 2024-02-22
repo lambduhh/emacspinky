@@ -1,0 +1,15 @@
+# Local Emacs history and settings
+.recentf
+.smex-items
+cider-history
+
+# Auto-generated files
+auto-save-list/
+ac-comphist.dat
+
+# Backup files
+*~
+
+# Directories not to track
+elpa/
+transient/
